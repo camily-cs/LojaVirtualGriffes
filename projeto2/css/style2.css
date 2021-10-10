@@ -1,0 +1,23 @@
+#imglogo {
+    width: 120px;
+    height: 100px;
+    margin-left: -33px;
+}
+
+
+.imgcat {
+    width: 200px;
+    height: 160px;
+    border-radius: 100px;
+    padding-right: 50px;
+}
+
+section {
+    display: flex;
+    margin-left: %;   
+}
+
+.itens-footer {
+     margin-left: 75%;
+     margin-top:-35px;
+}
